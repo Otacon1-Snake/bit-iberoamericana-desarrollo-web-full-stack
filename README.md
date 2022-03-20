@@ -21,3 +21,5 @@ In this part, source folder have been added, this folder contains images and gif
 * html: intex.html
 * css: styles.css
 * Folder: sources
+# Software Developer
+* [Juan Sebastian Aguirre Muñoz](#Name)
