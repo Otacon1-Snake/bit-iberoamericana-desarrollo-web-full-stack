@@ -3,7 +3,7 @@ h1.Title{
     font-style: normal 60px;
     font-size: 60px;
     background-color: rgba(247, 195, 132, 0.5);
-    border-style: solid rgba(247, 212, 97, 0.3);
+    border-style: solid rgba(245, 209, 92, 0.3);
     -webkit-text-stroke: 1px rgba(211, 86, 148, 0.295);
     color: rgba(211, 86, 149,70%);
 }
@@ -34,7 +34,7 @@ hr.Bod{
     display: flex;
 }
 div.BackgroundI {
-    background-image: url(/Unidad_1/03/Sources/Images/1200px-Peanut-Butter-Jelly-Sandwich.png);
+    background-image: url(../Sources/Images/1200px-Peanut-Butter-Jelly-Sandwich.png);
       background-size: 200px;
       position: fixed;
       background-repeat: space;
