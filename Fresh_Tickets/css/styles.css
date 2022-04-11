@@ -3,10 +3,7 @@
     src: url(/Resources/fonts/Caramel\ and\ Vanilla.ttf );
 }
 /*----------------------------Background---------------------------------------------*/
-#principal{
-    background: 
-                linear-gradient(to top, rgba(0, 0, 0, 0) 22%, rgba(0, 0, 0, 1) 80%),
-                no-repeat center center,fixed; 
+#principal{ 
     min-height: 100vh;
     background-size: cover;
     animation: slideBg 80s linear infinite 0s;
@@ -14,13 +11,13 @@
 }
 @keyframes slideBg {
     0% {
-        background-image: url('/Resources/img/bg_img/royalty-free-music-hip-hop.jpg')
+        background-image: url('/Resources/img/bg_img/5QANIAJIEVG6JDBNZP6SIMH2J4.jpg')
     }
     25% {
         background-image: url('/Resources/img/bg_img/1569662.jpg')
     }
     50% {
-        background-image: url('/Resources/img/bg_img/5QANIAJIEVG6JDBNZP6SIMH2J4.jpg')
+        background-image: url('/Resources/img/bg_img/royalty-free-music-hip-hop.jpg')
     }
     75% {
         background-image: url('/Resources/img/bg_img/Lollapalooza_2015.jpg')
